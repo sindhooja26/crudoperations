@@ -18,7 +18,7 @@ const flightSchema = new mongoose.Schema({
     timestamps: true
 });
 
-const model = mongoose.model('Addflightdetails', flightSchema)
+const model = mongoose.model('Addflightdetailss', flightSchema)
 
 
 
